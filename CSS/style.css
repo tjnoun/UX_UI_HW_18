@@ -1,0 +1,74 @@
+.inline-block{
+display:inline-block;
+vertical-align: top;
+align-items: center;
+}
+.logo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+nav {
+width: 73%;
+padding: 1%;
+justify-content: space-between;
+}
+ul {
+    width: 35%;
+    margin-left: auto;
+}
+
+.heroImg{
+    height: 600px;
+    padding: 25px;
+}
+.content{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #F2F2F2;
+
+
+}
+
+footer {
+    background-color: #373738;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+
+}
+li{
+    font-family: 'Hanken Grotesk', sans-serif;
+    margin: 10px;
+}
+
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 1px;
+}
+
+button{
+    background-color: #4A678C;
+    font-family: 'Hanken Grotesk', sans-serif;
+    color: white;
+    padding:15px 20px;
+    Margin: 25px
+}
+
+h1{
+    font-family: 'Hanken Grotesk', sans-serif;  
+}
+h4{
+    font-family: 'Hanken Grotesk', sans-serif;  
+}
+img{
+    padding: 20px;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
